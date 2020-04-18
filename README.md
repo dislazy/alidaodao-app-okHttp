@@ -9,10 +9,6 @@
 
 maven引入:
 
-### 通过spring工厂
-
-maven引入:
-
 ```xml
 <dependency>
   <groupId>com.alidaodao.app</groupId>
